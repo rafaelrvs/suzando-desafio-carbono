@@ -9,7 +9,6 @@ whatsappButton.addEventListener('click',function(){
     // Crie o URL do WhatsApp com o número de telefone
     console.log('test')
     const url = `https://api.whatsapp.com/send?phone=${numeroTelefone}`;
-
     // Redirecione o usuário para o WhatsApp
     window.location.href = url;
 });
