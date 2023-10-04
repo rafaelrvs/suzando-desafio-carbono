@@ -8,6 +8,19 @@ body{
     align-items: center;
     justify-content: center;
 }
+ul{
+    margin-top: 25px;
+display: flex;
+justify-content: space-around;
+
+}
+a{
+    color: #330e84;
+}
+a, li{
+    list-style: none;
+    text-decoration: none;
+}
 
 #primeiroCab{
     font-size: 20px;

@@ -10,6 +10,32 @@ body {
   margin: 0 auto;
   padding-top: 65px;
 }
+@media (max-width:500px) {
+  .page{
+    position: fixed;
+    margin-left: 10px;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    
+    flex-direction: column;
+  }
+  .page h1{
+    font-size: 20pt;
+
+  }
+  span {
+    font-size: 25pt;
+  }
+  nav{
+    font-size: 15pt;
+  }
+  .page p{
+    font-size: 10pt;
+    width: 300px;
+    margin-left: 25px;
+  }
+}
 
 nav {
   display: flex;
