@@ -3,7 +3,8 @@ const whatsappButton = document.querySelector('#whatsappButton');
 
 
 // Número de telefone para o qual você deseja criar o link do WhatsApp
-const numeroTelefone = '5511945932318';
+const numero = '5511945932318';
+const numeroTelefone = numero;
 
 // Manipulador de evento de clique do botão
 whatsappButton.addEventListener('click',function(){

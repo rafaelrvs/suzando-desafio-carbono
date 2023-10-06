@@ -2,7 +2,7 @@ body {
   margin: 0;
   font-family: 'Open Sans', sans-serif;
   background: linear-gradient(to bottom, rgb(233, 224, 224), #3e8169); /*degrade no fundo da tela*/
-  min-height: 100vh;
+  height: 100vh;
 }
 
 .page {
@@ -11,13 +11,13 @@ body {
   padding-top: 65px;
 }
 @media (max-width:500px) {
+  
   .page{
     position: fixed;
     margin-left: 10px;
     width: 700px;
     display: flex;
     justify-content: center;
-    
     flex-direction: column;
   }
   .page h1{
