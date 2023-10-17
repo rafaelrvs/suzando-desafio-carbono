@@ -2,7 +2,7 @@
 
 # objetivo:
 
-Sistema proposto na imersão para solucionar o problema de emissão de carbono.
+Sistema proposto na imersão para solucionar o problema de emissão de carbono o sistema foi desenvolvido em colaboração com 4 colaboradores.
 
 para isso a proposta é que o usuario faça o acesso ao programa web criado e entre na promoção  ADOTE UMA ARVORE
 
